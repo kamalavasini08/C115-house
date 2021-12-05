@@ -1,1 +1,1 @@
-# C115-house
+# C115-Logistic-Regression-Project
